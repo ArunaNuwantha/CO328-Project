@@ -26,7 +26,7 @@ Even though this is a challenging task we still don’t have a proper system to 
 
 ![image](https://user-images.githubusercontent.com/72965997/139569930-7939c6c9-245e-49ae-93ec-42baa887153f.png)
 
-![alt text](https://github.com/ArunaNuwantha/CO328-Project/docs/images/p2.png)
+![image](https://user-images.githubusercontent.com/72965997/139570026-c9c60368-ebef-457d-b5a8-09ad715497c5.png)
 
 ## Further Development
 

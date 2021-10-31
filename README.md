@@ -13,14 +13,6 @@ As university students, we were supposed to find a boarding place in our second 
 
 Even though this is a challenging task we still don’t have a proper system to solve this problem. Therefore as university students, we thought about building a system so that we can overcome the above-mentioned challenges.
 
-## Team members
-
-> [Chandula J.P.D.M](https://github.com/Chandula-JPDM) **E/16/061**
-
-> [Lakshan S.A.I](https://github.com/IsuruLakshan97) **E/16/203**
-
-> [Nuwantha B.L.A](https://github.com/ArunaNuwantha) **E/16/261**
-
 ## Setup the project
 
 - Clone the project
@@ -32,9 +24,9 @@ Even though this is a challenging task we still don’t have a proper system to 
 
 ## Implementation
 
-![alt text](https://github.com/ArunaNuwantha/CO328-Project/docs/images/p1.png)
+![alt text](/docs/images/p1.png)
 
-![alt text](https://github.com/ArunaNuwantha/CO328-Project/docs/images/p2.png)
+![alt text](/docs/images/p2.png)
 
 ## Further Development
 
@@ -44,3 +36,11 @@ Even though this is a challenging task we still don’t have a proper system to 
 - Adding payment method (Through this, Boarding owner can receive the advance through system )
 - Develop this project combining all sri lankan universities. ( Any university student in sri lanka will be able to find their approapiate boarding )
 - Upadate the system into **Laravel 6.0** and Change the views to **vue js**.
+
+## Team members
+
+- [Chandula J.P.D.M](https://github.com/Chandula-JPDM) **E/16/061**
+
+- [Lakshan S.A.I](https://github.com/IsuruLakshan97) **E/16/203**
+
+- [Nuwantha B.L.A](https://github.com/ArunaNuwantha) **E/16/261**

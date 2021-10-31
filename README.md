@@ -24,7 +24,7 @@ Even though this is a challenging task we still don’t have a proper system to 
 
 ## Implementation
 
-![alt text](https://github.com/ArunaNuwantha/CO328-Project/docs/images/p1.png)
+![image](https://user-images.githubusercontent.com/72965997/139569930-7939c6c9-245e-49ae-93ec-42baa887153f.png)
 
 ![alt text](https://github.com/ArunaNuwantha/CO328-Project/docs/images/p2.png)
 

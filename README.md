@@ -1,22 +1,25 @@
 # Boarding Management System
 
-## About Project
+# Introduction
 
-<p>System developed for managed boardings in jaffna area for university students. University Students in Jaffna Area can contact boarding owners and find their appropiate boarding. Boarding owners can advertise their boarding by putting in them our system. System includes functionalities for</p>
+As university students, we were supposed to find a boarding place in our second year since we were not offered a residence hostel during that time. Finding a rental place was a challenging task in the Kandy and Peradeniya area. Some of the challenges that we faced during finding rental places are,
 
-- Register As Boarding Owner
-- Add Boarding to our system
-- Select your appropiate boarding
-- Rate Boarding
-- Comment on boarding
-- Complain about boarding
-- Give Suggestions for the system
-- Add Admins
-- Remove boardings or boarding owners
-- Email messages Send through the system
-- Manage comments and complaints
+- We have to travel long distances to get the information.
+- A limited number of people know about the place.
+- Due to the covid-19, we cannot travel freely.
+- Have to depend on brokers and senior students a lot.
+- Some places do not have the required facilities.
+- Some places demand high rental fees.
 
-<p>All details include in the FinalReport2019.pdf</p>
+Even though this is a challenging task we still don’t have a proper system to solve this problem. Therefore as university students, we thought about building a system so that we can overcome the above-mentioned challenges.
+
+## Team members
+
+> [Chandula J.P.D.M](https://github.com/Chandula-JPDM) **E/16/061**
+
+> [Lakshan S.A.I](https://github.com/IsuruLakshan97) **E/16/203**
+
+> [Nuwantha B.L.A](https://github.com/ArunaNuwantha) **E/16/261**
 
 ## Setup the project
 
@@ -25,21 +28,13 @@
 - Install the Laravel Composer **( composer install )**
 - Generate the key for laravel project **( php artisan key:generate )**
 - import the database file to mysql(BMS.sql)
-- Setup Configurations in .env file(database configurations and Email configurations). 
+- Setup Configurations in .env file(database configurations and Email configurations).
 
-## About Laravel
+## Implementation
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+![alt text](https://github.com/ArunaNuwantha/CO328-Project/docs/images/p1.png)
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
-
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+![alt text](https://github.com/ArunaNuwantha/CO328-Project/docs/images/p2.png)
 
 ## Further Development
 

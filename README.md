@@ -69,7 +69,7 @@ Even though this is a challenging task we still don’t have a proper system to 
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/ArunaNuwantha/CO328-Project
+        git clone https://github.com/ArunaNuwantha/CO328-Project
    ```
 2. Navigate to folder
    ```sh

@@ -144,5 +144,5 @@ Project Link: [https://github.com/ArunaNuwantha/CO328-Project](https://github.co
 [stars-url]: https://github.com/ArunaNuwantha/CO328-Project/stargazers
 [issues-shield]: https://img.shields.io/github/issues/ArunaNuwantha/CO328-Project.svg?style=for-the-badge
 [issues-url]: https://github.com/ArunaNuwantha/CO328-Project/issues
-[license-shield]: https://img.shields.io/github/license//ArunaNuwantha/CO328-Project.svg?style=for-the-badge
-[license-url]: https://github.com//ArunaNuwantha/CO328-Project/blob/master/LICENSE.txt
+[license-shield]: https://img.shields.io/github/license/ArunaNuwantha/CO328-Project.svg?style=for-the-badge
+[license-url]: https://github.com/ArunaNuwantha/CO328-Project/blob/master/LICENSE.txt
